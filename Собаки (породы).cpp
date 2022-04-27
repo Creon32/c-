@@ -65,7 +65,7 @@ public:
 
 
 
-    ~Dog() { cout << " Gav" << endl; };
+    ~Dog() { cout << " Gav " << endl; };
 
 
 
@@ -122,7 +122,7 @@ int main()
 
         cout << "End of program" << endl;
         Dog emp1;
-        emp1.breed = "Alabai";
+        emp1.breed = "Teryr";
 
         emp1.size = "Large";
 
@@ -135,7 +135,7 @@ int main()
 
 
         Dog emp2;
-        emp2.breed = "Beagle";
+        emp2.breed = "Bigly";
 
         emp2.size = "Medium";
 
@@ -149,7 +149,7 @@ int main()
 
         Dog emp3;
 
-        emp3.breed = "Husky";
+        emp3.breed = "Huski";
 
         emp3.size = "Large";
 
@@ -161,7 +161,7 @@ int main()
 
 
 
-        Dog emp4("Spitz");
+        Dog emp4("Nem.Ovcharka");
 
         emp4.size = "Small";
 
