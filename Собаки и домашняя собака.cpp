@@ -145,7 +145,7 @@ int main()
 
         cout << "End of program" << endl;
         Dog emp1;
-        emp1.breed = "Alabai";
+        emp1.breed = "Terer";
 
         emp1.size = "Large";
 
@@ -158,7 +158,7 @@ int main()
 
 
         Dog emp2;
-        emp2.breed = "Beagle";
+        emp2.breed = "Bigle";
 
         emp2.size = "Medium";
 
@@ -172,7 +172,7 @@ int main()
 
         Dog emp3;
 
-        emp3.breed = "Husky";
+        emp3.breed = "Huski";
 
         emp3.size = "Large";
 
@@ -184,7 +184,7 @@ int main()
 
 
 
-        Dog emp4("Spitz");
+        Dog emp4("Nem.Ovcharka");
 
         emp4.size = "Small";
 
@@ -196,7 +196,7 @@ int main()
 
         Dog emp5;
 
-        emp5.breed = "Doberman";
+        emp5.breed = "Mops";
 
         emp5.size = "Large";
 
@@ -206,7 +206,7 @@ int main()
 
         emp5.show_emp_details();
 
-        HouseDog emp61("Pirat", "Daniil");
+        HouseDog emp61("Vasiliy");
 
         emp61.breed = "Doberman";
 
