@@ -160,7 +160,7 @@ int main()
 
 
         Dog emp2;
-        emp2.setBreed("Beagle");
+        emp2.setBreed("Bigle");
 
         emp2.size = "Medium";
 
@@ -174,7 +174,7 @@ int main()
 
         Dog emp3;
 
-        emp3.setBreed("Husky");
+        emp3.setBreed("Huski");
 
         emp3.size = "Large";
 
@@ -187,7 +187,7 @@ int main()
 
 
         Dog emp4;
-        emp4.setBreed("Spitz");
+        emp4.setBreed("Spits");
 
         emp4.size = "Small";
 
@@ -209,7 +209,7 @@ int main()
 
         emp5.show_emp_details();
 
-        HouseDog emp61("Pirat", "Daniil");
+        HouseDog emp61("vasiliy");
 
         emp61.setBreed("Doberman");
 
